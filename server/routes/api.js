@@ -6,7 +6,7 @@ var MongoClient = require('mongodb').MongoClient;
 
 
 const mongoose = require('mongoose')
-const db = "mongodb://localhost/eventsdb"
+const db = "mongodb://max:passw0rd123@ds159634.mlab.com:59634/wakseventsdb";
 mongoose.connect(db, { useNewUrlParser: true }, err =>{
     if(err){
         console.error('Error ' + err)

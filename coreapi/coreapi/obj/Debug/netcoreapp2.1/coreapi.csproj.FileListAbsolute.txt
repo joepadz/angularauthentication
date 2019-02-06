@@ -1,0 +1,14 @@
+C:\Users\joel.r.paderagao\Documents\AngularProject\angularauthentication\coreapi\coreapi\bin\Debug\netcoreapp2.1\coreapi.deps.json
+C:\Users\joel.r.paderagao\Documents\AngularProject\angularauthentication\coreapi\coreapi\bin\Debug\netcoreapp2.1\coreapi.runtimeconfig.json
+C:\Users\joel.r.paderagao\Documents\AngularProject\angularauthentication\coreapi\coreapi\bin\Debug\netcoreapp2.1\coreapi.runtimeconfig.dev.json
+C:\Users\joel.r.paderagao\Documents\AngularProject\angularauthentication\coreapi\coreapi\bin\Debug\netcoreapp2.1\coreapi.dll
+C:\Users\joel.r.paderagao\Documents\AngularProject\angularauthentication\coreapi\coreapi\bin\Debug\netcoreapp2.1\coreapi.pdb
+C:\Users\joel.r.paderagao\Documents\AngularProject\angularauthentication\coreapi\coreapi\obj\Debug\netcoreapp2.1\coreapi.csprojAssemblyReference.cache
+C:\Users\joel.r.paderagao\Documents\AngularProject\angularauthentication\coreapi\coreapi\obj\Debug\netcoreapp2.1\coreapi.csproj.CoreCompileInputs.cache
+C:\Users\joel.r.paderagao\Documents\AngularProject\angularauthentication\coreapi\coreapi\obj\Debug\netcoreapp2.1\coreapi.RazorAssemblyInfo.cache
+C:\Users\joel.r.paderagao\Documents\AngularProject\angularauthentication\coreapi\coreapi\obj\Debug\netcoreapp2.1\coreapi.RazorAssemblyInfo.cs
+C:\Users\joel.r.paderagao\Documents\AngularProject\angularauthentication\coreapi\coreapi\obj\Debug\netcoreapp2.1\coreapi.AssemblyInfoInputs.cache
+C:\Users\joel.r.paderagao\Documents\AngularProject\angularauthentication\coreapi\coreapi\obj\Debug\netcoreapp2.1\coreapi.AssemblyInfo.cs
+C:\Users\joel.r.paderagao\Documents\AngularProject\angularauthentication\coreapi\coreapi\obj\Debug\netcoreapp2.1\coreapi.RazorTargetAssemblyInfo.cache
+C:\Users\joel.r.paderagao\Documents\AngularProject\angularauthentication\coreapi\coreapi\obj\Debug\netcoreapp2.1\coreapi.dll
+C:\Users\joel.r.paderagao\Documents\AngularProject\angularauthentication\coreapi\coreapi\obj\Debug\netcoreapp2.1\coreapi.pdb

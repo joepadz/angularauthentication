@@ -14,9 +14,15 @@
       </li>
     </ul>
     <ul class="navbar-nav">
+<<<<<<< HEAD
         <a class="nav-link"  routerLink="/login" routerLinkActive="active">Login</a>
         <a class="nav-link"  routerLink="/register" routerLinkActive="active">Register</a>
         <a class="nav-link" style="cursor:pointer" >Logout</a>        
+=======
+        <a class="nav-link" *ngIf="!loggedIn()"   routerLink="/login" routerLinkActive="active">Login</a>
+        <a class="nav-link" *ngIf="!loggedIn()"  routerLink="/register" routerLinkActive="active">Register</a>
+        <a class="nav-link" style="cursor:pointer" *ngIf="loggedIn()"  (click)="logoutUser()">Logout</a>        
+>>>>>>> refs/remotes/origin/master
     </ul>
   </div>
 </nav>    
